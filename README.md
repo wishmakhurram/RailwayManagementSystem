@@ -1,2 +1,3 @@
 # RailwayManagementSystem
-# new system
+# he objective of this project is to create a web application designed to facilitate communication between passengers and train staff. This application aims to offer users a convenient way to access information about train schedules and ticketing options. It will also streamline the booking process for users while ensuring they stay informed about their travel timings.
+# Wishma Khurram
